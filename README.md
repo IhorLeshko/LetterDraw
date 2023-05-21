@@ -1,1 +1,3 @@
 # LetterDraw
+
+Kids drawing app.
